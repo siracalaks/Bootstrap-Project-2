@@ -62,3 +62,30 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/) 
+
+## 👨‍💻 Developer
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/siracalaks">
+        <img src="https://github.com/siracalaks.png" width="100px;" alt="Developer Profile Picture"/>
+        <br />
+        <sub><b>Sirac</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Contact
+- 📧 Email: [siracalaks@gmail.com](mailto:email@example.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/sirac-alakus-64a29917a/](https://www.linkedin.com/in/sirac-alakus-64a29917a/)
+
+---
+
+<div align="center">
+
+⭐️ If you enjoyed this project, don’t forget to give it a star!
+
+</div>
+
